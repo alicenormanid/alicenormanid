@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alicenormanid, a.k.a Alice.
+- 🌱 I’m currently a Computer Science undergraduate student, nearly finished with my BSc! I am also the proud owner of a degree minor in the Biological Sciences.
+- 👀 I’m interested in new and emerging technologies, cyber security, and computer networking. Aside from the tech-y stuff, I love to explore the outdoors via skiis, rollerblades, and mountain bikes. I am also an avid reader and self-directed learner with a passion for philosophy, cooking, and gardening (and coding, but you already knew that). ✨
+- 📫 If you'd like to reach me, send me a message on LinkedIn here: https://www.linkedin.com/in/alicenormanid/. :)
